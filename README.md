@@ -80,17 +80,17 @@ Improves transparency and traceability using blockchain technology.
 ### 📂 Python File Organizer  
 Automates file organization using Python scripts.
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vignesh1116&show_icons=true&theme=radical" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh1116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh1116&layout=compact&theme=radical" />
+</p>
 
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh1116&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh1116&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vignesh1116&theme=radical" />
+</p>
 
 ## 📈 Contribution Graph
 
