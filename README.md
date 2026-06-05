@@ -82,15 +82,22 @@ Automates file organization using Python scripts.
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh1116&show_icons=true&theme=github_dark)](https://github.com/Vignesh1116)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vignesh1116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 ## 💻 Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh1116&layout=compact&theme=github_dark)](https://github.com/Vignesh1116)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh1116&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh1116&theme=github-dark-blue)](https://github.com/Vignesh1116)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vignesh1116&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
